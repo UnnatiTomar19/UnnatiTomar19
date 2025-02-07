@@ -1,4 +1,4 @@
-![logo](https://github.com/UnnatiTomar19/Unnati_Tomar/blob/main/banner.png)
+![logo](https://github.com/UnnatiTomar19/UnnatiTomar19/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Unnati Tomar</h1>
 <h3 align="center">I am Software Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611twbrn82vsb8p537mji952vmv7972tf7w47mrvo8d&ep=v1_gifs_search&rid=giphy.gif&ct=g">
